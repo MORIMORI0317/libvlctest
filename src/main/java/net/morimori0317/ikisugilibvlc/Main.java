@@ -1,4 +1,4 @@
-package dev.felnull;
+package net.morimori0317.ikisugilibvlc;
 
 
 import org.lwjgl.BufferUtils;
@@ -18,7 +18,7 @@ import static org.lwjgl.openal.ALC10.*;
 
 
 public class Main {
-    private static final String MEDIA_MRL = "";
+    private static final String MEDIA_MRL = "https://cdn.discordapp.com/attachments/358878159615164416/1102257165596631121/04e126da529aaad8.mp3";
     private static final int SAMPLE_RATE = 48000;
     private static final boolean SPATIAL = true;
     private static final int CHANNELS = SPATIAL ? 1 : 2;
