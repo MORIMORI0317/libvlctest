@@ -18,7 +18,7 @@ import static org.lwjgl.openal.ALC10.*;
 
 
 public class Main {
-    private static final String MEDIA_MRL = "https://cdn.discordapp.com/attachments/358878159615164416/1102257165596631121/04e126da529aaad8.mp3";
+    private static final String MEDIA_MRL = "https://cdn.discordapp.com/attachments/358878159615164416/1102695794475274350/nicovideo-sm20295725_1afd21670994d7069dfa1bb794b5f9e3b8116a9bf55e97e0d37de66db3809bc1.mp4";
     private static final int SAMPLE_RATE = 48000;
     private static final boolean SPATIAL = true;
     private static final int CHANNELS = SPATIAL ? 1 : 2;
